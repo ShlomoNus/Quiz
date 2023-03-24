@@ -1,0 +1,58 @@
+{
+    "question": [
+    {
+        "question": "10 + 28 is equall",
+        "answers": [
+            "8293",
+            "18",
+            "38",
+            "48"
+        ]
+    },
+    {
+        "question": "the  capital city of Egypt is",
+        "answers": [
+            "Tel Aviv",
+            "Cario",
+            "Ashdod",
+            "Zanzibar"
+        ]
+    },
+    {
+        "question": "1,000,000 is words is",
+        "answers": [
+            "Hundred",
+            "Million ",
+            "Billion",
+            "Trillion"
+        ]
+    },
+    {
+        "question": "Whiche continent Mongolia located at",
+        "answers": [
+            "Asia",
+            "Africa",
+            "America",
+            "Europe"
+        ]
+    },
+    {
+        "question": "Did Shlomo Nusbaum get the job?",
+        "answers": [
+            "no",
+            "no",
+            "no",
+            "Yes !!!!"
+        ]
+    }
+
+],
+"answers":{
+    "0":"2",
+    "1":"1",
+    "2":"1",
+    "3":"0",
+    "4":"3"
+}
+
+}
